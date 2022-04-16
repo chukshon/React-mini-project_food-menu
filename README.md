@@ -1,4 +1,3 @@
-# react-projects-5-menu
 Hey! I'm on a mission to learn react. I'll be posting series of react projects likes this regularly.
 
 # React-project_basic-food-menu
