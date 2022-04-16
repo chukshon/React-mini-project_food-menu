@@ -1,4 +1,4 @@
-Hey! I'm on a mission to learn react. I'll be posting series of react projects likes this regularly.
+Hey! I'm on a mission to learn react. I'll be posting series of mini-react projects likes this regularly.
 
 # React-mini-project_food-menu
 This is a basic menu app where we have a list of menu items, not only will we have a list, we'll also have buttons that allow us to filter the list. For instance, if i want to see breakfast, I would click on breakfast for breakfast, if i want to see lunch, i will click ojn the lunch button. If i need to go back to all the menu item, i'll click on the all button. The buttons will be added automatically not hardcoded, which means if there is an additional meal category, a new meal category button gets created automatically. This is just a basic project hope you enjoy it. This was built with ReactJS, Html and CSS. 
